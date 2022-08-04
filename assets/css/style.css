@@ -39,7 +39,7 @@ a:hover {
    padding: 1%;
    border-radius: 0;
    border-color: rgb(204, 194, 194);
-   background: url(assets/img/1625947200.jpeg) left;
+   background: url(../..assets/img/1625947200.jpeg) left;
    background-size: cover;
 }
 
@@ -75,7 +75,7 @@ html,
 body {
    height: 100%;
    font-weight: bold;
-   background-image: url(assets/img/Oboi/г.jpg);
+   background-image: url(../..assets/img/Oboi/г.jpg);
    background-repeat: repeat;
 }
 
