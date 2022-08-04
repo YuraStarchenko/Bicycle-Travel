@@ -75,7 +75,7 @@ html,
 body {
    height: 100%;
    font-weight: bold;
-   background-image: url(../assets/img/Oboi/г.jpg);
+   background-image: url(../img/Oboi/г.jpg);
    background-repeat: repeat;
 }
 
@@ -182,7 +182,7 @@ footer {
    font-weight: bold;
    padding: 17px 0 18px 0;
    border-top: 1px solid #afabab;
-   background: url(../assets/img/1625947200.jpeg) bottom;
+   background: url(../img/1625947200.jpeg) bottom;
    background-size: cover;
 }
 
